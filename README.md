@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pkusaha
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java & Front End Development
+- 🌱 I’m currently learning Python & Front End Development
 <!--- 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/pkus/">Linkedin</a>
 
