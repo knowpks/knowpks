@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pkusaha
+- 👋 Hi, I’m Prasanta 
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently doing Bachelor in Applied Computer Science Student
 <!--- 💞️ I’m looking to collaborate on ... -->
